@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:e2e": "e2e run"
+  },
+  "devDependencies": {
+    "e2e": "^0.22.0",
+    "@e2e-dev/web": "^0.15.4",
+    "@ai-sdk/anthropic": "^4.0.94",
+    "ai": "^7.0.159"
+  }
+}
